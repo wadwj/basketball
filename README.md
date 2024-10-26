@@ -1,4 +1,4 @@
-# baseketball
+# baseketball 基于oasis（现在是galacean）的投篮demo
 
 ## Project setup
 ```
